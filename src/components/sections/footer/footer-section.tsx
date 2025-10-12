@@ -15,7 +15,7 @@ const links = [
     icon: (
       <IconBrandGithub className="h-full w-full text-neutral-500 dark:text-neutral-300" />
     ),
-    href: "https://github.com/StylePoints420",
+    href: "https://github.com/JoePascua360",
   },
   {
     title: "LinkedIn",
