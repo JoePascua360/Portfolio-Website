@@ -130,7 +130,7 @@ public/
 │       │   │   └── sales-management.png
 │       │   ├── cart.png
 │       │   ├── chat-history.png
-│       │   ├── checkout.png
+│       │   ├── checkout-page.png
 │       │   ├── delivery-tracking.png
 │       │   ├── gryn-wasabi-demo.png
 │       │   ├── order-history.png

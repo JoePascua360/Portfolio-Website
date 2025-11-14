@@ -101,8 +101,8 @@ test("return the correct JSON data based on the json file used", async () => {
           alt: "cart",
         },
         {
-          src: "/images/projects/gryn-wasabi/checkout.png",
-          darkSrc: "/images/projects/gryn-wasabi/checkout.png",
+          src: "/images/projects/gryn-wasabi/checkout-page.png",
+          darkSrc: "/images/projects/gryn-wasabi/checkout-page.png",
           alt: "checkout",
         },
         {
